@@ -1,4 +1,3 @@
-# name_entity_recognition
 Name Entity Recognition with DNN
 
 1.Structure
