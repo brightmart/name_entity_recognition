@@ -9,11 +9,11 @@ go from left to right to generate a new sequence, the length of each sub-sequenc
 
 2.Usage
 ---------------------------------------------------------------------------------------------------------------
-Run the mode by using follow command(It does not depend on any other dataset or files):
+It does not depend on any other dataset or files. Run the mode by using follow command:
 
 python dnn_model.py
 
-3.Toy task
+3.Toy task: test function for training and prediction
 ---------------------------------------------------------------------------------------------------------------
 We use a sequence of indexex to represent tokens of language. Each index is associate with target label based on specific rules. 
 Given a sequence of tokens, a new sequence will be generated, and will be splitted into a sequence of sub-sequence, then will
